@@ -1,0 +1,9 @@
+package hnrc.bronson.example;
+
+import org.slf4j.Logger;
+
+public class EventPublisher {
+    
+    public void removeListener(SseEventSource l) {
+    }
+}
